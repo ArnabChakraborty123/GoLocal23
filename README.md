@@ -2,6 +2,8 @@
 
 This is an ecommerce website built using React.js and deployed on Shardeum. It utilizes web3.js for smart contract integration.
 
+check the live link: https://evendorl-1wnf.onrender.com/
+
 ## Description
 
 The project aims to provide a platform for local roadside vendors to sell their goods to nearby customers. The website features a vendor portal with translation options and a form to update the list of items for sale. Customers can search for vendors based on categories and find the desired hawkers according to their search queries. Payment is facilitated through Metamask, with options for partial and full payments.
@@ -21,8 +23,6 @@ The project aims to provide a platform for local roadside vendors to sell their 
 - Solidity:Used for writing smart contracts
 - Metamask: A cryptocurrency wallet and gateway for interacting with the Ethereum network.
   
-![Screenshot (6)](https://github.com/user-attachments/assets/181cde54-78bc-432b-9198-594f30a43c98)
-
 ![Screenshot 2023-09-28 021458](https://github.com/user-attachments/assets/4ef53efe-d3e1-4808-8b8f-74cff2c581ec)
 
 ![Screenshot 2023-09-28 021540](https://github.com/user-attachments/assets/dfd1e51f-f289-420f-bdd3-2179073feaf2)
